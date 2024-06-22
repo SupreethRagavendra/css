@@ -1,0 +1,25 @@
+
+#box
+{
+    background-color:blue;
+}
+* {
+  color: rgb(14, 18, 11);
+}
+
+/* 1st -way */
+.heading
+{
+    color: red;
+}
+
+/* 2nd way */
+/* h1,h2,h3
+{
+    color:red;
+} */
+
+button
+{
+    background-color:green;
+}

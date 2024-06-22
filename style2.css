@@ -1,0 +1,51 @@
+p{
+    text-align:left;
+}
+
+h1{
+    text-align:center;
+    text-decoration:red wavy underline   ;
+}
+
+
+a
+{
+    text-decoration:none;
+}
+
+#heading2
+{
+ font-weight:lighter;   
+}
+
+#heading3
+{
+    font-weight:bold;
+
+}
+
+#heading4
+{
+    font-weight: normal;
+}
+
+#heading5
+{
+ font-weight: bolder;   
+}
+
+
+#two
+{
+    font-family: Trebuchet MS;
+}
+
+#para1
+{
+font-size: 30px;
+line-height:50px;
+text-transform:uppercase;
+/* text-transform:capitalize; */
+/* text-transform:lowercase; */
+}
+

@@ -1,0 +1,28 @@
+
+div
+{
+    /* display:inline;
+
+    background-color: red; */
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    /* display: inline-block; */
+    
+}
+
+#box2
+{
+    display: none;
+}
+
+button {
+    display: block;
+}
+
+#test
+{
+    background-color:rgba(255,0,0,0.1);
+
+}

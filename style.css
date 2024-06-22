@@ -1,0 +1,40 @@
+h3
+{
+    color: rgb(0, 255, 72);
+}
+
+p
+{
+    color:rgb(187, 15, 43);
+}
+
+button
+{
+    color:rgb(128, 0, 85);
+}
+
+body
+{
+    /* background-color:rgb(232, 7, 183);
+     */
+     background-color:#ffff00;
+}
+
+#heading
+{
+    color:forestgreen;
+}
+
+
+
+
+#headingtwo
+{
+    color:red;
+}
+
+
+.myClass
+{
+    color:green;
+}
